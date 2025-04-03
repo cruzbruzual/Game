@@ -1,10 +1,3 @@
-
----
-
-## **3. Python Code: `hangman.py`**  
-Этот код реализует **игру "Виселица"**, где игрок пытается угадать слово, вводя буквы.
-
-```python
 import random
 
 # List of words for the game
